@@ -1,0 +1,41 @@
+.bundle-border{
+    border: 0.9px solid #C8C8C8;
+    width: 340.7337951660156px;
+    height: 18px;
+    top: -318px;
+    left: -40px;
+    border: 0.9038031101226807px;
+}
+
+.bundle-title{
+    color: #007F61;
+    width: 100%;
+    height: auto;
+    top: -318.00006103515625px;
+    left: 67.55238342285156px;
+    font-family: Metropolis; 
+    text-align: left;
+
+}
+
+.radio:checked + .label {   /* target next sibling (+) label */
+    background-color: blue;
+  }
+
+  .shipping-st{
+    color: #007F61;
+  }
+
+  h6{
+    color: #007F61;
+  }
+
+  .butt{
+    width: 100%; 
+    background-color: #007F61;
+  }
+
+  .offf{
+    text-align: right;
+    /* display: inline-block; */
+  }
